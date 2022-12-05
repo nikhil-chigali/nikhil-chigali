@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhil-chigali
-- 👀 I’m interested in AI research 
+- 👀 I’m interested in AI Research & Development
 - 🌱 I’m currently learning Computer Vision and Deep Learning
 - 💞️ I’m looking to collaborate on anything on the lines of Machine learning and AI. Always up for some new learning
 - 📫 Reach me at _nikhil.chigali@gmail.com_
